@@ -22,7 +22,7 @@ title: Lacil Burnette
 email: kweenlace27@gmail.com
 description: Create Caribbean Internship Portfolio
 baseurl: "/lacilb" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lacil727.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lacil727
 
 # Build settings
