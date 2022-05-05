@@ -3,15 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lacil Burnette is an 18-year-old diligent student, currently a Geography major at Dominica State College. Growing up, she always enjoyed and had a special appreciation for features of the earth. In her free time, she enjoys learning new things, watching documentaries from National Geographic, listening to music, baking and she especially loves being in nature. In the future, she plans to pursue the field of Meteorology and Geographical Information Systems. She is goal driven and wishes to be successful and the best version of herself.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
